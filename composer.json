@@ -10,7 +10,10 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3"
+		"php": ">=5.3",
+		"soundasleep/html2text": "^0.3.4",
+		"phpunit/dbunit": "3.0.0",
+		"phpunit/phpunit": "6.1.x-dev"
 	},
 	"autoload": {
 		"psr-0": {
