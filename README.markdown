@@ -7,6 +7,11 @@ Documentation
 
 The full industry write-up can be found here on LinedIn
 
+Demo
+-------------
+
+[Found here](http://www.devcentral.co.nz/)
+
 Contents
 ---------
 
