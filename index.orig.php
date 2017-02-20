@@ -28,8 +28,6 @@ $dataPoints2 = array(
     <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/style.css" rel="stylesheet">
 
-
-
     <!-- scripts -->
     <script src="assets/js/jquery-3.1.0.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
