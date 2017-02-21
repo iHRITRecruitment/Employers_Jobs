@@ -5,7 +5,7 @@
 Documentation
 -------------
 
-The full industry write-up can be found here on LinedIn
+The full industry write-up can be found [here](https://www.linkedin.com/pulse/what-employers-truly-want-from-employees-jason-mullings) on LinedIn
 
 Demo
 -------------
